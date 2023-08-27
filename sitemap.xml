@@ -9,6 +9,13 @@
   </url>
   
   <url>
+    <loc>http://yoursite-url/java/java%E5%9F%BA%E7%A1%80/</loc>
+    
+    <lastmod>2023-08-15</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite-url/tags/index.html</loc>
     
     <lastmod>2023-08-15</lastmod>
@@ -23,14 +30,14 @@
   </url>
   
   <url>
-    <loc>http://yoursite-url/categories/index.html</loc>
+    <loc>http://yoursite-url/about/index.html</loc>
     
     <lastmod>2023-08-15</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite-url/about/index.html</loc>
+    <loc>http://yoursite-url/categories/index.html</loc>
     
     <lastmod>2023-08-15</lastmod>
     
@@ -67,7 +74,7 @@
 
   <url>
     <loc>http://yoursite-url/</loc>
-    <lastmod>2023-08-16</lastmod>
+    <lastmod>2023-08-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -75,21 +82,21 @@
   
   <url>
     <loc>http://yoursite-url/tags/MATLAB/</loc>
-    <lastmod>2023-08-16</lastmod>
+    <lastmod>2023-08-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yoursite-url/tags/Java/</loc>
-    <lastmod>2023-08-16</lastmod>
+    <lastmod>2023-08-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yoursite-url/tags/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E8%B7%B5/</loc>
-    <lastmod>2023-08-16</lastmod>
+    <lastmod>2023-08-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -98,14 +105,14 @@
   
   <url>
     <loc>http://yoursite-url/categories/MATLAB/</loc>
-    <lastmod>2023-08-16</lastmod>
+    <lastmod>2023-08-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://yoursite-url/categories/Java/</loc>
-    <lastmod>2023-08-16</lastmod>
+    <lastmod>2023-08-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
